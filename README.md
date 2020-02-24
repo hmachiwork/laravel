@@ -15,3 +15,5 @@ npm install
 ```
 npm run dev
 ```
+
+上記コマンド実行のみでlaravelのログイン機能、ユーザー登録機能が作成される
